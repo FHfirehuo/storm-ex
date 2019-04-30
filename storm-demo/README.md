@@ -1,0 +1,1 @@
+命令行执行：mvn exec:java
